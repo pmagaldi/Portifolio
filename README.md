@@ -1,4 +1,4 @@
-# Getting Started with My Portifolio
+# Getting Started with My Portifolio project
 
 This project is a portifolio of my carrer of software engineer and to study react using this course in youtube: https://youtu.be/bmpI252DmiI
 
