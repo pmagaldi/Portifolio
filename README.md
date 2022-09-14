@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with My Portifolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a portifolio of my carrer of software engineer and to study react using this course in youtube: https://youtu.be/bmpI252DmiI
 
 ## Available Scripts
 
