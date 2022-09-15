@@ -15,11 +15,11 @@
     "loaders.css": "^0.1.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-leaflet": "^4.0.1",
+    "react-leaflet": "^4.0.2",
     "react-loaders": "^3.0.1",
-    "react-router-dom": "^6.3.0",
+    "react-router-dom": "^6.4.0",
     "react-scripts": "5.0.1",
-    "sass": "^1.53.0",
+    "sass": "^1.54.9",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
