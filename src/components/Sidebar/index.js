@@ -4,6 +4,7 @@ import LogoS from '../../assets/images/logo-s.png'
 import LogoSubtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHome, faUser, faEnvelope } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons'
 
 const Sidebar = () => (
     <div className='nav-bar'>
@@ -22,6 +23,24 @@ const Sidebar = () => (
                 <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
             </NavLink>
         </nav>
+        <ul>
+            <li>
+                <a target="_blank" rel='noreferrer' href='https://www.linkedin.com/in/paulo-magaldi/'>
+                    <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
+                <a target="_blank" rel='noreferrer' href='https://github.com/pmagaldi'>
+                    <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
+                </a>
+            </li>
+            <li>
+                {/* Quando eu tiver um número profissional alterar para entrar em contato */}
+                <a target="_blank" rel='noreferrer' href=' https://wa.me/55XXXXXXXXXXX?text=Gostei%20do%20seu%20portfólio,%20quero%20entrar%20em%20contato'>
+                    <FontAwesomeIcon icon={faWhatsapp} color="#4d4d4e" />
+                </a>
+            </li>
+        </ul>
     </div>
 )
 
