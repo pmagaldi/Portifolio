@@ -1,9 +1,8 @@
 import LogoTitle from '../../assets/images/logo-s.png';
 import { Link } from 'react-router-dom'
 import './index.scss'
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import AnimatedLetters from '../AnimatedLetters/index'
-import { useEffect } from 'react';
 
 const Home = () => {
 
