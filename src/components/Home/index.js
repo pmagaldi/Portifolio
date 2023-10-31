@@ -7,8 +7,8 @@ import AnimatedLetters from '../AnimatedLetters/index'
 const Home = () => {
 
     const [letterClass, setLetterClass] = useState('text-animate')
-    const nameArray = ['l','o','b','o','d','a','n']
-    const jobArray = ['W', 'e', 'b', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r']
+    const nameArray = ['P','a','u','l','o']
+    const jobArray = ['S', 'o', 'f','t', 'w', 'a', 'r', 'e', ' ', 'D', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r']
 
     useEffect(() => {
         setTimeout(() => {
